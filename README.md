@@ -1,5 +1,4 @@
-# yara-example
+# Yara Rules
 
-This repository contains example Yara rules converted from the ClamAV database and parsed through a whitelist.
-
-In line with ClamAV, these rules are released under the GPL.
+This contains public Yara rules.
+Please review the individual rules for details.
